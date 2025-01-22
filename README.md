@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
   <h1>EmailBuilder.js</h1>
   <p align="center">
     <a href="https://usewaypoint.github.io/email-builder-js/#sample/reservation-reminder">Demo / Playground</a>&emsp;&middot;&emsp;
@@ -230,3 +230,11 @@ If you are looking to provide code contribututions to EmailBuilder.js, please fo
 <br>
 
 ## Brought to you by Waypoint
+
+EmailBuilder.js is the community version of our much-loved no-code template builder on Waypoint. If you are looking for a better collaboration experience for your team, check out [Waypoint's email API](https://usewaypoint.com/) with a hosted template builder with dynamic LiquidJS variables, drag and drop, reusable layouts, loops, and additional blocks.
+
+<br>
+
+## Looking for something special?
+
+Need special consultation, a one-off feature, integration, or something else for your business? We can help or put you in touch with someone that can – contact us at support@usewaypoint.com and share your details.
